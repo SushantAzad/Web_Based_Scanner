@@ -40,7 +40,7 @@ A comprehensive web application security scanner that detects common vulnerabili
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web-vulnerability-scanner.git
+   git clone https://github.com/SushantAzad/Web_Based_Scanner
    cd web-vulnerability-scanner
 2. Run the application:
    ```bash
