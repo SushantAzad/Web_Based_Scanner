@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![Flask](https://img.shields.io/badge/flask-2.0+-green.svg)
-![License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 A comprehensive web application security scanner that detects common vulnerabilities in web applications with a user-friendly interface.
 
