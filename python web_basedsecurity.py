@@ -154,10 +154,10 @@ HTML_TEMPLATE = '''
             text-transform: uppercase;
         }
 
-        .critical-bg { background: var(--danger); color: white; }
-        .high-bg { background: #e67e22; color: white; }
+        .critical-bg { background: var(--danger); color: black; }
+        .high-bg { background: #e67e22; color: black; }
         .medium-bg { background: #f1c40f; color: black; }
-        .low-bg { background: var(--success); color: white; }
+        .low-bg { background: var(--success); color: black; }
 
         pre {
             background: #f8f9fa;
